@@ -1,0 +1,18 @@
+body {
+	color: grey;
+	font-family: Arial;
+}
+
+input {
+	padding: 10px;
+}
+
+#structure {
+	font-family: monospace;
+}
+
+#structure a {
+   pointer-events: none;
+   cursor: default;
+   text-decoration: none;
+}
